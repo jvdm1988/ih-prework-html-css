@@ -1,0 +1,36 @@
+body {
+background: rgb(244, 248, 249);
+border: 4px solid rgb(225, 232, 237);
+border-color: rgb(225, 232, 237);
+border-width: 20px;
+margin: 200px;
+}
+
+img{
+float: left;
+padding: 5px;
+}
+
+* {
+  font-family: helvetica;
+}
+
+#id right-icon{
+  float: right;
+} /* According to my research the code is correct, how does it not float right?*/
+
+#id user-account{
+  color: rgb(104, 109, 129);
+} /*I cannot figure out why the color of @jack doesn't change?-->*/
+
+#id text{
+  float: left;
+}
+
+time {
+  color: rgb(101, 116, 127);
+}
+
+.footer{
+  color: rgb(105, 120, 130);
+}
