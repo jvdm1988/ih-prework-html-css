@@ -1,0 +1,65 @@
+.twitterbox {
+background-color: rgb(255, 255, 255);
+border: 4px solid rgb(225, 232, 237);
+border-color: rgb(225, 232, 237);
+border-width: 20px;
+margin: 200px;
+padding-bottom: 50px;
+}
+
+img{
+padding: 5px;
+}
+
+.profile {
+  float: left;
+}
+
+h3 {
+  display: inline;
+}
+
+.user-account{
+  color: rgb(104, 109, 129);
+}
+
+.followbox {
+  border: 2px solid;
+  color: rgb(85, 172, 238);
+  border-radius: 6px;
+  width: 160px;
+  height: 50px;
+  float: right;
+  margin: 20px;
+  display: inline;
+}
+
+.followbox h2{
+  float: right;
+  margin-right: 25px;
+}
+
+* {
+  font-family: helvetica;
+}
+
+h4{
+  color: rgb(104, 109, 129);
+}
+
+
+.twitterbox p {
+  padding: 10px;
+}
+
+time {
+  color: rgb(101, 116, 127);
+}
+
+.footer{
+  color: rgb(105, 120, 130);
+}
+.footer img,
+.footer p {
+  float: left;
+}

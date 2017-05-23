@@ -19,9 +19,9 @@ padding: 5px;
   float: right;
 } /* According to my research the code is correct, how does it not float right?*/
 
-#id user-account{
+h4{
   color: rgb(104, 109, 129);
-} /*I cannot figure out why the color of @jack doesn't change?-->*/
+}
 
 #id text{
   float: left;
@@ -33,4 +33,8 @@ time {
 
 .footer{
   color: rgb(105, 120, 130);
+}
+
+.footer p {
+  float: left;
 }
